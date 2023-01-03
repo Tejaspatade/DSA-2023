@@ -1,5 +1,5 @@
 # 3/1
-# First Non-Constructible Change From Coins ALgoExpert Easy
+# First Non-Constructible Change From Coins ALgoExpert Medium
 
 def nonConstructibleChange(coins):
     # Edge Case
